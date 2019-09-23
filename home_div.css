@@ -71,4 +71,11 @@ div.col-1-5 a{
      color: rgb(221, 214, 192);
  }
 
- 
+ div.col-1-5{
+    width: 20%;
+ }
+
+ div.col-1-4 a{
+    width: 10%;
+    height: 10%;
+ }
